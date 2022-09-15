@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kinmado.github.io</id>
+    <title>Kinmad&apos;s Blog</title>
+    <updated>2022-09-15T17:29:33.656Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kinmado.github.io"/>
+    <link rel="self" href="https://kinmado.github.io/atom.xml"/>
+    <subtitle>お兄さん，大好き！</subtitle>
+    <logo>https://kinmado.github.io/images/avatar.png</logo>
+    <icon>https://kinmado.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Kinmad&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://kinmado.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://kinmado.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2022-09-15T05:11:42.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
+</feed>
